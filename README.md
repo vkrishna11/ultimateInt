@@ -19,6 +19,7 @@ Look at this [source](./src/fr/ezydata/Main.java)
 
 Hello dear how are you?
 
+bonjour et bienvenue
 
 
 ....
